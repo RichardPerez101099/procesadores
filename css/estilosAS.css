@@ -1,0 +1,82 @@
+body{
+  background-image:url(https://iebp.milaulas.com/pluginfile.php/248/course/summary/40.%20TECNOLOGIA.gif);
+}
+p{
+  color: white;
+  text-align: center;
+  font-family: inherit;
+  font-size: 60px;
+}
+#button {
+ padding: 0;
+ padding: 0;
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: white;
+}
+
+ #button li {
+ display: inline-block;
+ float:left;
+ padding:0 10px;
+ border-right:1px solid black;
+}
+
+
+#button li a {
+ font-family: verdana ;
+ font-size: 30px;
+ text-decoration: none;
+ float: left;
+ padding: 10px;
+ color: black;
+}
+
+#informacion{
+  color: white;
+  font-size: 25px;
+  text-align: left;
+}
+
+#Titulo{
+  color: #00FFFF;
+  font-size: 70px;
+  font-family: cursive;
+}
+
+
+h2{
+  Color: white;
+  font-size: 40px;
+  text-align: center;
+
+}
+div{
+  border-style: solid;
+  border-color: white;
+  color: yellow;
+  font-size: 30px;
+  text-align:justify;
+
+}
+
+#lista{
+  Color: pink;
+  font-size: 35px;
+  font-family: cursive;
+  text-align: center;
+
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Subtitulo{
+  font-family: monospace;
+  font-size: 70px;
+  color: MediumSeaGreen;
+}
